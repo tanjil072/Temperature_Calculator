@@ -1,0 +1,20 @@
+C:\Users\Tanjil\source\repos\TempCalc\TempCalc\bin\Debug\TempCalc.exe.config
+C:\Users\Tanjil\source\repos\TempCalc\TempCalc\bin\Debug\TempCalc.exe
+C:\Users\Tanjil\source\repos\TempCalc\TempCalc\bin\Debug\TempCalc.pdb
+C:\Users\Tanjil\source\repos\TempCalc\TempCalc\obj\Debug\TempCalc.csprojAssemblyReference.cache
+C:\Users\Tanjil\source\repos\TempCalc\TempCalc\obj\Debug\TempCalc.Form1.resources
+C:\Users\Tanjil\source\repos\TempCalc\TempCalc\obj\Debug\TempCalc.Properties.Resources.resources
+C:\Users\Tanjil\source\repos\TempCalc\TempCalc\obj\Debug\TempCalc.csproj.GenerateResource.cache
+C:\Users\Tanjil\source\repos\TempCalc\TempCalc\obj\Debug\TempCalc.csproj.CoreCompileInputs.cache
+C:\Users\Tanjil\source\repos\TempCalc\TempCalc\obj\Debug\TempCalc.exe
+C:\Users\Tanjil\source\repos\TempCalc\TempCalc\obj\Debug\TempCalc.pdb
+F:\3.2\SD Lab\TempCalc\TempCalc\bin\Debug\TempCalc.exe.config
+F:\3.2\SD Lab\TempCalc\TempCalc\bin\Debug\TempCalc.exe
+F:\3.2\SD Lab\TempCalc\TempCalc\bin\Debug\TempCalc.pdb
+F:\3.2\SD Lab\TempCalc\TempCalc\obj\Debug\TempCalc.csprojAssemblyReference.cache
+F:\3.2\SD Lab\TempCalc\TempCalc\obj\Debug\TempCalc.Form1.resources
+F:\3.2\SD Lab\TempCalc\TempCalc\obj\Debug\TempCalc.Properties.Resources.resources
+F:\3.2\SD Lab\TempCalc\TempCalc\obj\Debug\TempCalc.csproj.GenerateResource.cache
+F:\3.2\SD Lab\TempCalc\TempCalc\obj\Debug\TempCalc.csproj.CoreCompileInputs.cache
+F:\3.2\SD Lab\TempCalc\TempCalc\obj\Debug\TempCalc.exe
+F:\3.2\SD Lab\TempCalc\TempCalc\obj\Debug\TempCalc.pdb
